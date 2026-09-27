@@ -1,0 +1,44 @@
+.main__title{
+    text-align: center;
+    font-size: 60px;
+    color: brown;
+}
+
+.title{
+    text-align: center;
+    color: blueviolet;
+    font-size: 50px;
+}
+.wrapper {
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    &__link {
+        margin: 20px 20px;
+        text-align: center;
+        padding: 10px;
+    }
+}
+
+.button {
+    text-align: center;
+    align-items: center;
+    background-color: rosybrown;
+    padding: 20px;
+    margin: 15px 15px;
+    border-radius: 40px;
+    color: aliceblue;
+}
+
+.page{
+    padding: 20px;
+
+}
+
+.AvatarImg {
+    width: 100px;
+    height: 100px;
+}
+
